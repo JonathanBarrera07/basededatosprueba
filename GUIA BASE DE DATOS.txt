@@ -1,0 +1,12 @@
+iniciar apache
+inicia MySQL
+
+apretar config luego browse
+
+apretar arriba donde dice xampp
+
+ir a htdocs
+
+crear carpeta "juegodelgato"
+
+pegar todo los archivos
